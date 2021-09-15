@@ -15,7 +15,6 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
         width: 25%;
         height: 200px;
     }
-
 }
 
 /* Portrait tablets and small desktops */
@@ -23,6 +22,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 90%;
     }
+    
     .center {
         width: 50%;
         height: 200px;
@@ -34,9 +34,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 80%;
     }
+
 	section:nth-child(7){
     margin:-250px -98px 120px -98px;
 	}
+
 	.about_overlay {
 		padding: 130px 100px 200px 100px;
 	}
