@@ -11,6 +11,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
         font-size: 15px;
     }
 
+    .center {
+        width:25%;
+        height: 300px;
+    }
+
 }
 
 /* Portrait tablets and small desktops */
