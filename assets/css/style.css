@@ -605,11 +605,9 @@ h1 span {
 	margin-bottom:40px;
 }
 
-.about_bottom_content a {
-	margin-left: 20px;
+.about_bottom_content img{
+    margin-left: 20px;
 }
-
-.about_bottom_content a img{}
 
 /* Tiny forest section */
 .tinyforest{
