@@ -820,6 +820,9 @@ a.s_f:hover
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
+    width: 25%;
+    height: 300px;
+    
   }
 
 
