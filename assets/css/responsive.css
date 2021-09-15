@@ -57,7 +57,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 		margin-top: 20px;
 	}
     .center {
-        width: 50%;
+        width: 75%;
         height: 200px;
     }
 }
@@ -65,6 +65,10 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 @media (max-width: 320px) {
     html {
         font-size: 60.5%;
+    }
+    .center {
+        width: 75%;
+        height: 200px;
     }
 }
 
