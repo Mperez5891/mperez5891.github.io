@@ -56,6 +56,10 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 	.standard {
 		margin-top: 20px;
 	}
+    .center {
+        width: 50%;
+        height: 200px;
+    }
 }
 
 @media (max-width: 320px) {
